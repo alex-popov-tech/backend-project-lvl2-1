@@ -1,0 +1,33 @@
+{
+  "name": "backend-project-lvl2",
+  "version": "1.0.0",
+  "description": "hexlet backend-project-lvl2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikkstchv/backend-project-lvl2.git"
+  },
+  "keywords": [
+    "hexlet",
+    "node",
+    "cli",
+    "gendiff",
+    "javascript"
+  ],
+  "author": "Nikita Kostichev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikkstchv/backend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/nikkstchv/backend-project-lvl2#readme",
+  "dependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/node": "^7.7.4",
+    "@babel/preset-env": "^7.7.6",
+    "commander": "^4.0.1"
+  }
+}
