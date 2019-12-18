@@ -4,3 +4,5 @@ publish:
 	npm publish --dry-run
 start:
 	npx babel-node -- src/bin/gendiff
+make lint:
+	npx eslint .
