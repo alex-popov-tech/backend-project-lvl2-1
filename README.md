@@ -4,4 +4,4 @@ HEXLET backend-project-lvl2
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/nikkstchv/backend-project-lvl2/maintainability)
 
-[![Build Status](https://travis-ci.org/nikkstchv/project-lvl1-s442.svg?branch=master)](https://travis-ci.org/nikkstchv/backend-project-lvl2)
+[![Build Status](https://travis-ci.com/nikkstchv/backend-project-lvl2.svg?branch=master)](https://travis-ci.com/nikkstchv/backend-project-lvl2)
